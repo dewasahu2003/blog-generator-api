@@ -3,6 +3,7 @@
 # 🤖 AI Blog Generator with Amazon Bedrock
 
 Generate AI-powered blog content automatically using Amazon Bedrock, AWS Lambda, and S3.
+[Linkedin Post](https://www.linkedin.com/posts/dewasahu_aws-buildinpublic-awscommunity-activity-7296266731554004992-Upak?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkObhwBfE_QsbN1RuFm0RkPTRMCOtFqZtw)
 
 ## 🔧 Architecture
 
